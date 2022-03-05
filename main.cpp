@@ -1,3 +1,22 @@
+/**
+Inteligência Artificial
+ - Samir Avelino Carvalho
+ - Vitor de Paula Batista
+
+  Exemplo de entrada para a matriz da solução do jogo:
+1 2 3
+8 0 4
+7 6 5
+
+  Exemplo de entrada para a matriz do jogo com os números embaralhados
+3 4 2
+5 1 7
+6 0 8
+
+Digite 1 para executar a busca em profundidade e 2 para a busca A*
+
+**/
+
 #include <cstdio>
 #include <iostream>
 #include <queue>
